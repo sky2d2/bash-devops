@@ -1,4 +1,4 @@
-# 01_basics
+# 1_basics
 
 This folder contains beginner-friendly Bash scripts useful for learning shell scripting and automation fundamentals.
 

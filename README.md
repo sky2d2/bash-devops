@@ -36,7 +36,7 @@ Whether you're just starting out with Bash or building real automation pipelines
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/bash-devops.git
+git clone https://github.com/sky2d2/bash-devops.git
 cd bash-devops
 
 # Navigate to a module

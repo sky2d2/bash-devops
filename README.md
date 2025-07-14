@@ -19,7 +19,7 @@ Whether you're just starting out with Bash or building real automation pipelines
 
 ---
 
-> 📌 **Note:** Modules 2–6 are under development and will be added incrementally.
+> 📌 **Note:** Modules 3–6 are under development and will be added incrementally.
 
 ---
 

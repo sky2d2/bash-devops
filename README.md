@@ -10,12 +10,12 @@ Whether you're just starting out with Bash or building real automation pipelines
 
 | Module                                    | Description                                                           |
 |-------------------------------------------|-----------------------------------------------------------------------|
-| [01_basics](./01_basics/README.md)        | Learn Bash fundamentals (variables, input, conditionals, I/O)        |
-| [02_file_process](./02_file_process/README.md)  | Automate file cleanup, monitor CPU/memory, use signal traps     |
-| [03_text_processing](./03_text_processing/README.md) | Extract and transform data using `awk`, `sed`, and `grep`        |
-| [04_cron_jobs](./04_cron_jobs/README.md)        | Schedule tasks using `cron`; backups and system reports         |
-| [05_devops_integration](./05_devops_integration/README.md) | Use Bash with Docker, AWS CLI, Terraform                     |
-| [06_projects](./06_projects/README.md)          | Real-world DevOps automation projects                            |
+| [1_basics](./1_basics/README.md)        | Learn Bash fundamentals (variables, input, conditionals, I/O)        |
+| [2_file_process](./2_file_process/README.md)  | Automate file cleanup, monitor CPU/memory, use signal traps     |
+| [3_text_processing](./3_text_processing/README.md) | Extract and transform data using `awk`, `sed`, and `grep`        |
+| [4_cron_jobs](./4_cron_jobs/README.md)        | Schedule tasks using `cron`; backups and system reports         |
+| [5_devops_integration](./5_devops_integration/README.md) | Use Bash with Docker, AWS CLI, Terraform                     |
+| [6_projects](./6_projects/README.md)          | Real-world DevOps automation projects                            |
 
 ---
 

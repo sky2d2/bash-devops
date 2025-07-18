@@ -40,6 +40,6 @@ git clone https://github.com/sky2d2/bash-devops.git
 cd bash-devops
 
 # Navigate to a module
-cd 01_basics
+cd 1_basics
 chmod +x *.sh
 ./hello.sh
